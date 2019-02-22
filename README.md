@@ -1,1 +1,1 @@
-# Graph-Search-Algorithms
+# Graph search algorithms
